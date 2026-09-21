@@ -4,7 +4,7 @@ I build web apps and parametric 3D tools. Open to full-time and client work.
 
 **Pinned work**
 
-- **[SiteMassing3D](https://github.com/Seanl686/SiteMassing3D)** — parametric Three.js massing for manufactured homes: true-scale elevations, door/window schedule, plates you can actually trust for site renders.
+- **[SiteMassing3D](https://github.com/SeanLebida/SiteMassing3D)** — parametric Three.js massing for manufactured homes: true-scale elevations, door/window schedule, plates you can actually trust for site renders.
 
 **Stack**
 
